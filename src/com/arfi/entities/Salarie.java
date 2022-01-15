@@ -1,4 +1,4 @@
-package com.bdcc;
+package com.arfi.entities;
 
 import java.util.ArrayList;
 import java.util.List;

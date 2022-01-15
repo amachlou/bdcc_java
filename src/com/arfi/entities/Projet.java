@@ -1,4 +1,4 @@
-package com.bdcc;
+package com.arfi.entities;
 
 public class Projet {
 	
